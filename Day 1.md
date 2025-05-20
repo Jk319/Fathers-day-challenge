@@ -34,7 +34,7 @@ class Solution {
 
 **Problem Description** - Pascal's Triangle II
 
-Solution - 
+Solution 
 ```java
 public class Solution {
     public List<Integer> getRow(int rowIndex) {
