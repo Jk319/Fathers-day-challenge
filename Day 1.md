@@ -33,6 +33,7 @@ class Solution {
 ---
 
 **Problem Description** - Pascal's Triangle II
+
 Solution - 
 ```java
 public class Solution {
